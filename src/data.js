@@ -1,33 +1,33 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "React Supply Chain App",
+    subtitle: "AWS Internship Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developed reporting dashboards to visualize data shared by the AWS Supply Chain customers.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    // link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Trading Plaza Web App",
+    subtitle: "Flask, Python and SQLite",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Collaborated with a team of 5 engineers to design and develop a trading plaza web application using Flask.",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Twitter-like Social Networking Service",
+    subtitle: "Django, Python and Mysql",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Designed a twitter-like online social networking web application using Python Django REST framework.",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Cloud-based Delivery Service Web App",
+    subtitle: "Spring Boot, Java and PostgreSQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Led a group of 5 to develop a database-driven delivery service web application that integrated customized stores through APIs using Spring Boot.",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
@@ -51,10 +51,14 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
   "React",
-  "Next.js",
-  "Node",
+  "Redux",
   "GraphQL",
-  "Material UI",
+  "Python",
+  "Java",
+  "Kotlin",
+  "SQL",
+  "Git",
+  "SAS",
+  "C++",
 ];
