@@ -1,4 +1,5 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export default function Contact() {
     const [name, setName] = React.useState("");
@@ -53,7 +54,7 @@ export default function Contact() {
                                 EMAIL
                             </h2>
                             <a className="text-indigo-400 leading-relaxed">
-                                xfang.chu@email.com
+                                xfang.chu@gmail.com
                             </a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                                 PHONE
@@ -68,12 +69,41 @@ export default function Contact() {
                     onSubmit={handleSubmit}
                     className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
                     <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-                        Hire Me
+                        Connect with Me
                     </h2>
                     <p className="leading-relaxed mb-5">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-                        suscipit officia aspernatur veritatis. Asperiores, aliquid?
+                        Looking forward to having a coffee chat with you!
                     </p>
+
+                    <div className="relative mb-4">
+                        <div className="flex items-center">
+                            <a
+                                href="https://www.linkedin.com/in/xiaofangchu"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-indigo-500 hover:text-indigo-700 mr-4"
+                            >
+                                <FontAwesomeIcon icon={['fab', 'linkedin']} className="text-2xl" />
+                            </a>
+                            <a
+                                href="https://github.com/xiaofanc"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-indigo-500 hover:text-indigo-700 mr-4"
+                            >
+                                <FontAwesomeIcon icon={['fab', 'github']} className="text-2xl" />
+                            </a>
+                            <a
+                                href="mailto:xfang.chu@gmail.com"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-indigo-500 hover:text-indigo-700"
+                            >
+                                <FontAwesomeIcon icon="envelope" className="text-2xl" />
+                            </a>
+                        </div>
+                    </div>
+
                     <div className="relative mb-4">
                         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
                             Name

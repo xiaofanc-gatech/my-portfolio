@@ -3,33 +3,33 @@ export const projects = [
     title: "React Supply Chain App",
     subtitle: "AWS Internship Project",
     description:
-      "Developed reporting dashboards to visualize data shared by the AWS Supply Chain customers.",
+      "Generate reporting dashboards to visualize data shared by the AWS Supply Chain customers. Develop frontend components using React, establish connections to the GraphQL layer to fetch data from backend and implement backend with Kotlin.",
     image: "./project-1.gif",
     // link: "https://reactbootcamp.com",
   },
   {
     title: "Trading Plaza Web App",
-    subtitle: "Flask, Python and SQLite",
+    subtitle: "Flask, Python and MySQL",
     description:
-      "Collaborated with a team of 5 engineers to design and develop a trading plaza web application using Flask.",
+      "Collaborate with a team of 5 engineers to design and develop a MySQL database driven trading plaza web application using Flask. Implement frontend using HTML, AJAX and Jinja2 and develop backend services with RESTful APIs to support trading items services.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/xiaofanc/Trading-Plaza",
   },
   {
     title: "Twitter-like Social Networking Service",
-    subtitle: "Django, Python and Mysql",
+    subtitle: "Django, Python and MySQL",
     description:
-      "Designed a twitter-like online social networking web application using Python Django REST framework.",
+      "Design a twitter-like online social networking web application using Python Django REST framework. Implement backend services with RESTful APIs to provide various services, including user, tweet, friendship, newsfeed, comment services and so on.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/xiaofanc/Twitter-design",
   },
   {
     title: "Cloud-based Delivery Service Web App",
     subtitle: "Spring Boot, Java and PostgreSQL",
     description:
-      "Led a group of 5 to develop a database-driven delivery service web application that integrated customized stores through APIs using Spring Boot.",
+      "Develop a PostgreSQL database driven delivery service web application. Design customer-focused frontend using HTML, CSS, JavaScript, and AJAX and implement backend services with RESTful APIs to support various requests based on Spring Boot framework.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/xiaofanc/Grocery-Service-Application",
   },
 ];
 
