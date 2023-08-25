@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Supply Chain App",
+    title: "AWS Supply Chain App",
     subtitle: "AWS Internship Project",
     description:
       "Generate reporting dashboards to visualize data shared by the AWS Supply Chain customers. Develop frontend components using React, establish connections to the GraphQL layer to fetch data from backend and implement backend with Kotlin.",
-    image: "./project-1.gif",
-    // link: "https://reactbootcamp.com",
+    image: "./p0.gif",
+    link: "https://aws.amazon.com/aws-supply-chain/",
   },
   {
     title: "Trading Plaza Web App",
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Django, Python and MySQL",
     description:
       "Design a twitter-like online social networking web application using Python Django REST framework. Implement backend services with RESTful APIs to provide various services, including user, tweet, friendship, newsfeed, comment services and so on.",
-    image: "./project-3.gif",
+    image: "./p3.gif",
     link: "https://github.com/xiaofanc/Twitter-design",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Spring Boot, Java and PostgreSQL",
     description:
       "Develop a PostgreSQL database driven delivery service web application. Design customer-focused frontend using HTML, CSS, JavaScript, and AJAX and implement backend services with RESTful APIs to support various requests based on Spring Boot framework.",
-    image: "./project-4.gif",
+    image: "./p4.gif",
     link: "https://github.com/xiaofanc/Grocery-Service-Application",
   },
 ];
