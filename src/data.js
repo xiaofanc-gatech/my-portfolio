@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Collaborate with a team of 5 engineers to design and develop a MySQL database driven trading plaza web application using Flask. Implement frontend using HTML, AJAX and Jinja2 and develop backend services with RESTful APIs to support trading items services.",
     image: "./project-2.gif",
-    link: "https://github.com/xiaofanc/Trading-Plaza",
+    link: "https://github.com/xiaofanc/Trading-Market",
   },
   {
     title: "Twitter-like Social Networking Service",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Develop a PostgreSQL database driven delivery service web application. Design customer-focused frontend using HTML, CSS, JavaScript, and AJAX and implement backend services with RESTful APIs to support various requests based on Spring Boot framework.",
     image: "./p4.gif",
-    link: "https://github.com/xiaofanc/Grocery-Service-Application",
+    link: "https://github.com/xiaofanc",
   },
 ];
 
