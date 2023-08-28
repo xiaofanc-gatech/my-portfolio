@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Flask, Python and MySQL",
     description:
       "Collaborate with a team of 5 engineers to design and develop a MySQL database driven trading plaza web application using Flask. Implement frontend using HTML, AJAX and Jinja2 and develop backend services with RESTful APIs to support trading items services.",
-    image: "./project-2.gif",
+    image: "./p2.gif",
     link: "https://github.com/xiaofanc/Trading-Market",
   },
   {
