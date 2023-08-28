@@ -8,10 +8,10 @@ export const projects = [
     link: "https://aws.amazon.com/aws-supply-chain/",
   },
   {
-    title: "Trading Plaza Web App",
-    subtitle: "Flask, Python and MySQL",
+    title: "Trading Market Web App",
+    subtitle: "Flask, Python and Sqlalchemy",
     description:
-      "Collaborate with a team of 5 engineers to design and develop a MySQL database driven trading plaza web application using Flask. Implement frontend using HTML, AJAX and Jinja2 and develop backend services with RESTful APIs to support trading items services.",
+      "Collaborate with a team of 5 engineers to design and develop a trading market web application using Flask. Implement frontend using HTML, AJAX and Jinja2 and develop backend services with RESTful APIs to support trading items services.",
     image: "./p2.gif",
     link: "https://github.com/xiaofanc/Trading-Market",
   },
@@ -24,10 +24,10 @@ export const projects = [
     link: "https://github.com/xiaofanc/Twitter-design",
   },
   {
-    title: "Cloud-based Delivery Service Web App",
+    title: "Delivery Service Web App",
     subtitle: "Spring Boot, Java and PostgreSQL",
     description:
-      "Develop a PostgreSQL database driven delivery service web application. Design customer-focused frontend using HTML, CSS, JavaScript, and AJAX and implement backend services with RESTful APIs to support various requests based on Spring Boot framework.",
+      "Develop a delivery service web application. Design customer-focused frontend using HTML, CSS, JavaScript, and AJAX and implement backend services with RESTful APIs to support various requests based on Spring Boot framework.",
     image: "./p4.gif",
     link: "https://github.com/xiaofanc",
   },
