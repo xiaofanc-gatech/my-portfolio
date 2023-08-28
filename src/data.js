@@ -24,7 +24,7 @@ export const projects = [
     link: "https://github.com/xiaofanc/Twitter-design",
   },
   {
-    title: "Delivery Service Web App",
+    title: "Cloud-based Delivery Service Web App",
     subtitle: "Spring Boot, Java and PostgreSQL",
     description:
       "Develop a delivery service web application. Design customer-focused frontend using HTML, CSS, JavaScript, and AJAX and implement backend services with RESTful APIs to support various requests based on Spring Boot framework.",
