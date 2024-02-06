@@ -11,7 +11,7 @@ export default function About() {
                         apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        I have a good understanding of both software and data with 2+ years’ working experience in data analysis. Currently I am studying in the Master of Science in Computer Science program at Georgia Tech. I am passionate about developing interesting software products and solving challenging problems. Currently looking for Software Engineer roles.
+                        I have a good understanding of both software and data with 2+ years’ working experience in data analysis. I graduated from Master of Science in Computer Science program at Georgia Tech. I am passionate about developing interesting software&AI products and solving challenging problems. Currently looking for Software Engineer - machine learning roles.
                     </p>
                     <div className="flex justify-center">
                         <a
